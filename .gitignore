@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .DS_Store
 .buildpath
 .project
@@ -51,9 +51,13 @@ addons/shared_addons/field_types/*
 !addons/shared_addons/field_types/index.html
 system/cms/config/config.php
 =======
+=======
+
 */config/development
 */logs/log-*.php
 */logs/!index.html
 */cache/*
 */cache/!index.html
->>>>>>> b65cc0f81b299a12811b3ca5ead2ed4a726aa4db
+
+=======
+
